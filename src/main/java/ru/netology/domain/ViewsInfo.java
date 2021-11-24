@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class NumberOfViews {
+public class ViewsInfo {
     private int number;
     private String eye;
     // setters + getters;
